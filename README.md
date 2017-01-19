@@ -1,2 +1,2 @@
 # Stolen-DaVinci
-Edited version of the original DaVinci
+Speak, friend, and enter.
