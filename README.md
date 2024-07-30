@@ -7,4 +7,6 @@ Practice project to get better at:
 - anime.js
 - Figma
 - Product Development
-- DOM manipulation with vanilla JS
+- ReactJS
+- Redux
+- StoryBook
